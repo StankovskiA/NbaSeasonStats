@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "NbaSeasonStats = NbaSeasonStats.nba_stats:main"
+            "NbaSeasonStats = nba_stats:main"
         ]
     },
 )
